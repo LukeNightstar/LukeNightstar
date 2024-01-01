@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Language
-<a target="_blank"><img src="https://img.shields.io/badge/3178C6?style=for-the-badge&logo=로고&logoColor=#3178C6"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=로고&logoColor=3178C6"/></a>
+
+### Device
+Macbook Pro M2 MAX 32GB 1TB
