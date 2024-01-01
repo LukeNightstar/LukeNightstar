@@ -1,4 +1,4 @@
-### Hi there 👋
+## LukeNightstar
 
 <!--
 **LukeNightstar/LukeNightstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Language
+<a target="_blank"><img src="https://img.shields.io/badge/3178C6?style=for-the-badge&logo=로고&logoColor=#3178C6"/></a>
