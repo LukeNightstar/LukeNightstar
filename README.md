@@ -1,7 +1,7 @@
 ## LukeNightstar
 #### Luke_Nightstar || Eclipse_
 
-### Language & Skills
+### Stacks
 <p>
 <img src="https://img.shields.io/badge/Java-F44336?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
